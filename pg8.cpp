@@ -37,6 +37,6 @@ class Student: public Person {
 // P2. Create two instances of Person and call print_info() on them.
 int main(){
 // P8. Create an instance of Student and call print_info() on it.
-Student s1("Saikiran", "ECE",21);
+Student s1("Abc", "ECE",20);
 s1.print_info();
 }
