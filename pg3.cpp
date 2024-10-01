@@ -23,6 +23,6 @@ class Person{
 // P2. Create two instances of Person and call print_info() on them.
 int main(){
 
-Person p1("Saikiran", 21);
+Person p1("Abc", 20);
 p1.print_info();
 }
