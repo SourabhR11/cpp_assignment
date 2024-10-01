@@ -49,14 +49,14 @@ class Teacher : public Person{
 // P2. Create two instances of Person and call print_info() on them.
 int main(){
 
-Person person1("Saikiran",21);
+Person person1("Abc",20);
 person1.print_info();
 
-Student student1("Saikiran", "ECE",21);
+Student student1("Abc", "ECE",20);
 student1.print_info();
 
 // P10. Create an instance of Teacher and call print_info() on it.
-Teacher  teacher1("Saikiran",21,15000);
+Teacher  teacher1("Abc",20,15000);
 teacher1.print_info();
 
 }
